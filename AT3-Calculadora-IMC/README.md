@@ -1,38 +1,49 @@
-# 🎬 Nome do Projeto
+# ⚖️ Calculadora de IMC
+
 ## 📝 Descrição do Projeto
-Este projeto consiste em um motor de recomendação inteligente que
-utiliza técnicas de filtragem colaborativa e baseada em conteúdo. O
-objetivo principal é mitigar a "paralisia de escolha", oferecendo aos
-usuários sugestões personalizadas com base em seu histórico de
-visualização e preferências de gênero.
+Este projeto consiste em uma calculadora de **Índice de Massa Corporal
+(IMC)** para adultos, desenvolvida com HTML5 e **JavaScript**. O usuário
+informa a altura e o peso, e a página calcula o IMC pela fórmula
+`peso / (altura × altura)` e exibe o valor com duas casas decimais junto
+da classificação correspondente.
+
 Desenvolvido como parte das disciplinas de **Desenvolvimento Front-End
-Para Web (2026.2)**, o sistema processa grandes volumes de dados
-(datasets de filmes e avaliações) para identificar padrões de
-comportamento e similaridades entre títulos, utilizando algoritmos de
-aprendizado de máquina para prever a nota que um usuário daria a um
-filme ainda não assistido.
+Para Web (2026.2)**, a atividade introduz o uso de JavaScript no
+navegador: leitura de campos, estruturas condicionais e atualização do
+conteúdo da página.
+
+A classificação segue as faixas de IMC abaixo:
+
+| IMC | Classificação |
+| :--- | :--- |
+| Abaixo de 18,5 | Baixo Peso |
+| 18,5 a 24,9 | Peso Normal |
+| 25 a 29,9 | Sobrepeso |
+| 30 a 34,9 | Obesidade Grau I |
+| 35 a 39,9 | Obesidade Grau II |
+| 40 ou mais | Obesidade Mórbida |
+
+A calculadora aceita a altura em metros (ex: `1.75`) ou em centímetros
+(ex: `175`), convertendo automaticamente, e avisa quando algum campo
+está vazio.
+
 ## 🚀 Tecnologias Utilizadas
-* **Linguagem:** HTML5, CSS e JavaScript
-* **Bibliotecas:** Bootstrap
-* **Ferramentas:** VSCode
-* **Modelo de IA:** Gemini
+* **Linguagem:** HTML5 e JavaScript
+* **Ferramentas:** Git, GitHub e VSCode
+
 ## 📊 Resultados e Aprendizados
-O projeto alcançou resultados sólidos em ambiente de teste, demonstrando
-a eficácia do modelo híbrido.
-* **O modelo atingiu 92% de acurácia** nos testes de validação.
-* **Redução de Ruído:** Aprendi a aplicar técnicas de limpeza e
-normalização de dados para melhorar a performance dos algoritmos.
-* **Visualização de Clusters:** Implementei gráficos que mostram como o
-sistema agrupa filmes por afinidade.
-## 🧠 Declaração de Uso Ético da IA
-Este projeto utilizou inteligência artificial ([Nome do Modelo, ex:
-ChatGPT / GitHub Copilot]) estritamente como ferramenta de suporte
-tecnológico para [Finalidade, ex: estruturação inicial do HTML e
-depuração de funções em JavaScript]. Todo o código gerado foi revisado,
-testado e compreendido por mim, garantindo a minha responsabilidade
-integral sobre a autoria final, integridade e funcionamento da
-aplicação.
-## 💻 Deploy do projeto
-[Clique para acessar](https://seu-usuario.github.io/xxxxxxxxx/)
+O projeto resultou em uma calculadora funcional, em um único arquivo
+(`atividade-peso.html`).
+
+* **Manipulação do DOM:** Aprendi a ler valores com
+  `document.getElementById` e a exibir o resultado na página com
+  `innerHTML`.
+* **Eventos:** Utilizei o evento `onclick` para disparar o cálculo ao
+  clicar no botão.
+* **Estruturas Condicionais:** Implementei a cadeia de
+  `if / else if / else` para classificar o IMC.
+* **Tratamento de Entrada:** Tratei a altura informada em centímetros e
+  o caso de campos vazios para evitar resultados inválidos.
+
 ---
-[Voltar ao início](https://github.com/seu-usuario/portfolio-usuario)
+[Voltar ao início](https://github.com/Guilherme-Leme-Machado/portfolio-guilherme-leme-machado)
