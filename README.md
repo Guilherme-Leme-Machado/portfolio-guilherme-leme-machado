@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:guilm0735@gmail.com)
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./assets/curriculo.pdf)
 ---
-### 󰞵 Sobre
+### 📃 Sobre
 Atualmente cursando o 2° período de ADS na UNICID. Sou apaixonado por resolver problemas através da
 tecnologia e possuo foco em Desenvolvimento FullStack.
 * **Habilidades Técnicas:** Python, Java, C, HTML, CSS.
@@ -26,7 +26,7 @@ Científica/Estágio] onde desenvolvi [resultado principal].
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ---
 ### 📂 Portfólio de Projetos
-#### 󰳕 Desenvolvimento Front-End para Web
+#### 📃 Desenvolvimento Front-End para Web
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
 | **Site Básico em HTML5** | Criação de site básico com 5 páginas em HTML5. | [Ver Projeto](./AT1-Paginas-HTML/) |
