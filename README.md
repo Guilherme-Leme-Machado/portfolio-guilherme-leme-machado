@@ -36,7 +36,7 @@ Científica/Estágio] onde desenvolvi [resultado principal].
 #### 🗃 Modelagem de Banco de Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Nome do projeto** | Documento de Requisitos, Modelagem ER e Scripts SQL. | [Ver Projeto](./projeto-banco-dados/) |
+| **Nome do projeto** | Documento de Requisitos, Modelagem ER e Scripts SQL. | https://github.com/Guilherme-Leme-Machado/dicionario-dados-projeto-mercado |
 ---
 ### 🏗 Estrutura do Repositório
 Abaixo, a organização deste repositório para facilitar a navegação:
