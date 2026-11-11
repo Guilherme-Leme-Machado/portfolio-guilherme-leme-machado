@@ -3,9 +3,9 @@
 ---
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-
-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-leme-machado-3b1384248)
+badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-leme-machado-3b1384248)
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge
-&logo=gmail&logoColor=white)](mailto:guilm0735@gmail.com)
+&logo=gmail&logoColor=white)](mailto:[guilm0735@gmail.com](https://mail.google.com/mail/u/0/?ogbl#inbox))
 [![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-th
 e-badge&logo=read-the-docs&logoColor=white)](./assets/curriculo.pdf)
 ---
