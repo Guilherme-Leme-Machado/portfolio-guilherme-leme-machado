@@ -53,7 +53,7 @@ responsabilidade integral sobre a autoria final, integridade e
 funcionamento da aplicação.
 
 ## 💻 Deploy do projeto
-[Clique para acessar](https://guilherme-leme-machado.github.io/portfolio-guilherme-leme-machado/site-responsivo-bootstrap_5.3)
+[Clique para acessar](https://guilherme-leme-machado.github.io/site-responsivo-bootstrap_5.3)
 
 ---
 [Voltar ao início](https://github.com/Guilherme-Leme-Machado/portfolio-guilherme-leme-machado)
