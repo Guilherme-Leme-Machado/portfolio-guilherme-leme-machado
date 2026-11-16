@@ -6,7 +6,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:guilm0735@gmail.com)
 ---
 ### 📃 Sobre
-Atualmente cursando o 2° período de ADS na UNICID. Sou apaixonado por resolver problemas através da
+Atualmente cursando o 2° período de ADS na UNICID. Gosto de resolver problemas através da
 tecnologia e possuo foco em Desenvolvimento FullStack.
 * **Habilidades Técnicas:**
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -19,7 +19,7 @@ assertiva e pensamento crítico.
 * **Experiência/Projetos Relevantes:** Atuei em [Projeto de Iniciação
 Científica/Estágio] onde desenvolvi [resultado principal].
 ---
-### 🛠 Minhas Ferramentas Favoritas
+### 🛠 Ferramentas mais Utilizadas
 #### 💻 Linguagens e Tecnologias
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
