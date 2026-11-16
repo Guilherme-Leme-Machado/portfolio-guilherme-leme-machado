@@ -4,7 +4,6 @@
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-leme-machado-3b1384248)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:guilm0735@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./assets/curriculo.pdf)
 ---
 ### 📃 Sobre
 Atualmente cursando o 2° período de ADS na UNICID. Sou apaixonado por resolver problemas através da
